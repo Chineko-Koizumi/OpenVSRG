@@ -1,0 +1,66 @@
+﻿  GameLoop.cpp
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\gameloop.cpp(73): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\gameloop.cpp(74): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\gameloop.cpp(134): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\gameloop.cpp(508): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  OpenVSRG_Textures.cpp
+  OpenVSRG_Note.cpp
+  OpenVSRG_NotePool.cpp
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\openvsrg_notepool.cpp(63): warning C4154: deletion of an array expression; conversion to pointer supplied
+  InputHandling.cpp
+  Receptor.cpp
+  Score_Handler.cpp
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\score_handler.cpp(86): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\score_handler.cpp(103): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\score_handler.cpp(235): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\score_handler.cpp(236): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\score_handler.cpp(285): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  AnimatedArt.cpp
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\animatedart.cpp(16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\animatedart.cpp(18): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\animatedart.cpp(39): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\animatedart.cpp(123): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\animatedart.cpp(153): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\animatedart.cpp(154): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\animatedart.cpp(155): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\animatedart.cpp(236): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\animatedart.cpp(333): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Animation.cpp
+  Config.cpp
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\config.cpp(54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\config.cpp(55): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  MainLoop.cpp
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\mainloop.cpp(112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\mainloop.cpp(113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\mainloop.cpp(114): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\mainloop.cpp(115): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\mainloop.cpp(412): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\mainloop.cpp(413): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\mainloop.cpp(414): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\mainloop.cpp(420): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\mainloop.cpp(431): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\mainloop.cpp(432): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\mainloop.cpp(433): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\mainloop.cpp(438): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Shape_OpenVSRG.cpp
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\shape_openvsrg.cpp(105): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\shape_openvsrg.cpp(180): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\shape_openvsrg.cpp(186): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\shape_openvsrg.cpp(208): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\shape_openvsrg.cpp(636): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  SimFile.cpp
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\simfile.cpp(103): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\simfile.cpp(112): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\simfile.cpp(121): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\simfile.cpp(130): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\simfile.cpp(157): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\simfile.cpp(158): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\simfile.cpp(167): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\simfile.cpp(168): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\simfile.cpp(177): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\simfile.cpp(289): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\simfile.cpp(301): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\guielektrhero\guielektrhero\simfile.cpp(314): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Sound.cpp
+  Generating Code...
+  GuiElektrHero.vcxproj -> C:\Users\Chineko\Downloads\SFML-2.5.1-windows-vc15-64-bit\SFML-2.5.1\GuiElektrHero\x64\Debug\GuiElektrHero.exe

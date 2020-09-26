@@ -1,0 +1,1279 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+      <FILENAME>gameloop.cpp</FILENAME>
+      <LINE>73</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6385</DEFECTCODE>
+    <DESCRIPTION>Reading invalid data from 'RawSimFile':  the readable size is '(numLines+1)*8' bytes, but '16' bytes may be read.</DESCRIPTION>
+    <FUNCTION>GameLoop::{ctor}</FUNCTION>
+    <DECORATED>??0GameLoop@@QEAA@PEAVRenderWindow@sf@@PEAVOpenVSRG_Textures@@PEAVScore_Handler@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VString@2@4PEAVFont@2@4HHHHH@Z</DECORATED>
+    <FUNCLINE>4</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>5</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>6</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>7</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>12</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>13</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>14</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>15</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>16</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>8</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>9</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>10</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>20</LINE>
+        <COLUMN>0</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>11</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>20</LINE>
+        <COLUMN>0</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.h</FILENAME>
+        <LINE>43</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.h</FILENAME>
+        <LINE>44</LINE>
+        <COLUMN>26</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>19</LINE>
+        <COLUMN>29</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>17</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>18</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>20</LINE>
+        <COLUMN>0</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>21</LINE>
+        <COLUMN>30</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>22</LINE>
+        <COLUMN>32</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>23</LINE>
+        <COLUMN>39</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>25</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>26</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>28</LINE>
+        <COLUMN>34</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>30</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>32</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>33</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>35</LINE>
+        <COLUMN>39</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>38</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>40</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>42</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>43</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>44</LINE>
+        <COLUMN>20</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Skip this loop, (assume 'getline(in, line)-&gt;._N()' is false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>59</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>60</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>62</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>63</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>65</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>67</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>68</LINE>
+        <COLUMN>20</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this loop, (assume 'getline(in, line)-&gt;._N()')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>70</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>70</LINE>
+        <COLUMN>24</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this branch, (assume '(bool)===(*, "//"), (), (bool)')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>72</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>73</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>12</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'iterrator' may equal 1</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>76</LINE>
+        <COLUMN>22</COLUMN>
+        <KEYEVENT>
+          <ID>5</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Skip this loop, (assume 'getline(in, line)-&gt;._N()' is false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>68</LINE>
+        <COLUMN>20</COLUMN>
+        <KEYEVENT>
+          <ID>6</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Continue this loop, (assume 'getline(in, line)-&gt;._N()')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>70</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>70</LINE>
+        <COLUMN>24</COLUMN>
+        <KEYEVENT>
+          <ID>7</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this branch, (assume '(bool)===(*, "//"), (), (bool)')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>72</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>73</LINE>
+        <COLUMN>9</COLUMN>
+        <KEYEVENT>
+          <ID>8</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>'iterrator' is an Output from 'strcpy' (declared at c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h:132)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>73</LINE>
+        <COLUMN>9</COLUMN>
+        <KEYEVENT>
+          <ID>9</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Invalid read from 'RawSimFile[1]', (readable range is 0 to 0)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+      <FILENAME>gameloop.cpp</FILENAME>
+      <LINE>72</LINE>
+      <COLUMN>25</COLUMN>
+    </SFA>
+    <DEFECTCODE>6386</DEFECTCODE>
+    <DESCRIPTION>Buffer overrun while writing to 'RawSimFile':  the writable size is '(numLines+1)*8' bytes, but '16' bytes might be written.</DESCRIPTION>
+    <FUNCTION>GameLoop::{ctor}</FUNCTION>
+    <DECORATED>??0GameLoop@@QEAA@PEAVRenderWindow@sf@@PEAVOpenVSRG_Textures@@PEAVScore_Handler@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VString@2@4PEAVFont@2@4HHHHH@Z</DECORATED>
+    <FUNCLINE>4</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>5</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>6</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>7</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>12</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>13</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>14</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>15</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>16</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>8</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>9</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>10</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>20</LINE>
+        <COLUMN>0</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>11</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>20</LINE>
+        <COLUMN>0</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.h</FILENAME>
+        <LINE>43</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.h</FILENAME>
+        <LINE>44</LINE>
+        <COLUMN>26</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>19</LINE>
+        <COLUMN>29</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>17</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>18</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>20</LINE>
+        <COLUMN>0</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>21</LINE>
+        <COLUMN>30</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>22</LINE>
+        <COLUMN>32</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>23</LINE>
+        <COLUMN>39</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>25</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>26</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>28</LINE>
+        <COLUMN>34</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>30</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>32</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>33</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>35</LINE>
+        <COLUMN>39</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>38</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>40</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>42</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>43</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>44</LINE>
+        <COLUMN>20</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Skip this loop, (assume 'getline(in, line)-&gt;._N()' is false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>59</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>60</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>62</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>63</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>65</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>67</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>68</LINE>
+        <COLUMN>20</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this loop, (assume 'getline(in, line)-&gt;._N()')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>70</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>70</LINE>
+        <COLUMN>24</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this branch, (assume '(bool)===(*, "//"), (), (bool)')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>72</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>73</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>12</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'iterrator' may equal 1</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>76</LINE>
+        <COLUMN>22</COLUMN>
+        <KEYEVENT>
+          <ID>5</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Skip this loop, (assume 'getline(in, line)-&gt;._N()' is false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>68</LINE>
+        <COLUMN>20</COLUMN>
+        <KEYEVENT>
+          <ID>6</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Continue this loop, (assume 'getline(in, line)-&gt;._N()')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>70</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>70</LINE>
+        <COLUMN>24</COLUMN>
+        <KEYEVENT>
+          <ID>7</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this branch, (assume '(bool)===(*, "//"), (), (bool)')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>72</LINE>
+        <COLUMN>25</COLUMN>
+        <KEYEVENT>
+          <ID>8</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Invalid write to 'RawSimFile[1]', (writable range is 0 to 0)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+      <FILENAME>gameloop.cpp</FILENAME>
+      <LINE>214</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>6386</DEFECTCODE>
+    <DESCRIPTION>Buffer overrun while writing to 'Level':  the writable size is 'alloc_iterrator*8' bytes, but '16' bytes might be written.</DESCRIPTION>
+    <FUNCTION>GameLoop::GenereteLevel</FUNCTION>
+    <DECORATED>?GenereteLevel@GameLoop@@QEAAXH@Z</DECORATED>
+    <FUNCLINE>160</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>162</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>163</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>164</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>165</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>167</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this loop, (assume '1')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>169</LINE>
+        <COLUMN>10</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this branch, (assume 'lvl==iterrator')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>171</LINE>
+        <COLUMN>40</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this branch, (assume '&lt;branch condition&gt;')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>173</LINE>
+        <COLUMN>4</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>174</LINE>
+        <COLUMN>4</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>176</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>177</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>200</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>201</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>203</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this loop, (assume '1')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>206</LINE>
+        <COLUMN>40</COLUMN>
+        <KEYEVENT>
+          <ID>5</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Skip this branch, (assume '&lt;branch condition&gt;' is false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>214</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>215</LINE>
+        <COLUMN>4</COLUMN>
+        <KEYEVENT>
+          <ID>6</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'alloc_iterrator' may equal 1</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>216</LINE>
+        <COLUMN>4</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>203</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>7</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Continue this loop, (assume '1')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>206</LINE>
+        <COLUMN>40</COLUMN>
+        <KEYEVENT>
+          <ID>8</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Skip this branch, (assume '&lt;branch condition&gt;' is false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>214</LINE>
+        <COLUMN>27</COLUMN>
+        <KEYEVENT>
+          <ID>9</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Invalid write to 'Level[1]', (writable range is 0 to 0)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+      <FILENAME>gameloop.cpp</FILENAME>
+      <LINE>236</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6385</DEFECTCODE>
+    <DESCRIPTION>Reading invalid data from 'Level':  the readable size is 'alloc_iterrator*8' bytes, but '16' bytes may be read.</DESCRIPTION>
+    <FUNCTION>GameLoop::GenereteLevel</FUNCTION>
+    <DECORATED>?GenereteLevel@GameLoop@@QEAAXH@Z</DECORATED>
+    <FUNCLINE>160</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>162</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>163</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>164</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>165</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>167</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this loop, (assume '1')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>169</LINE>
+        <COLUMN>10</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this branch, (assume 'lvl==iterrator')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>171</LINE>
+        <COLUMN>40</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this branch, (assume '&lt;branch condition&gt;')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>173</LINE>
+        <COLUMN>4</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>174</LINE>
+        <COLUMN>4</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>176</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>177</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>200</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>201</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>203</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this loop, (assume '1')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>206</LINE>
+        <COLUMN>40</COLUMN>
+        <KEYEVENT>
+          <ID>5</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this branch, (assume '&lt;branch condition&gt;')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>208</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>209</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>221</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>222</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>224</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>6</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this loop, (assume '1')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>227</LINE>
+        <COLUMN>39</COLUMN>
+        <KEYEVENT>
+          <ID>7</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Skip this branch, (assume '&lt;branch condition&gt;' is false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>236</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>237</LINE>
+        <COLUMN>65</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>238</LINE>
+        <COLUMN>3</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>239</LINE>
+        <COLUMN>3</COLUMN>
+        <KEYEVENT>
+          <ID>8</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'alloc_iterrator' may equal 1</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>224</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>9</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Continue this loop, (assume '1')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>227</LINE>
+        <COLUMN>39</COLUMN>
+        <KEYEVENT>
+          <ID>10</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Skip this branch, (assume '&lt;branch condition&gt;' is false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>236</LINE>
+        <COLUMN>9</COLUMN>
+        <KEYEVENT>
+          <ID>11</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>'alloc_iterrator' is an Output from 'strcpy' (declared at c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h:132)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+        <FILENAME>gameloop.cpp</FILENAME>
+        <LINE>236</LINE>
+        <COLUMN>9</COLUMN>
+        <KEYEVENT>
+          <ID>12</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Invalid read from 'Level[1]', (readable range is 0 to 0)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\sfml test\sfml test\</FILEPATH>
+      <FILENAME>score_handler.cpp</FILENAME>
+      <LINE>263</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6340</DEFECTCODE>
+    <DESCRIPTION>Mismatch on sign: 'unsigned char' passed as _Param_(2) when some signed type is required in call to 'printf'.</DESCRIPTION>
+    <FUNCTION>Score_Handler::TranslateCoughtPossitionsToTimeSamples</FUNCTION>
+    <DECORATED>?TranslateCoughtPossitionsToTimeSamples@Score_Handler@@QEAAXXZ</DECORATED>
+    <FUNCLINE>193</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\openvsrg\openvsrg\</FILEPATH>
+      <FILENAME>mainloop.cpp</FILENAME>
+      <LINE>73</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>Function uses '41996' bytes of stack:  exceeds /analyze:stacksize '16384'.  Consider moving some data to heap.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>73</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

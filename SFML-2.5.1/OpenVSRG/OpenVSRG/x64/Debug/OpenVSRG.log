@@ -1,0 +1,17 @@
+﻿H:\Visual studio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (GuiElektrHero.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  SimFile.cpp
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\openvsrg\openvsrg\simfile.cpp(104): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\openvsrg\openvsrg\simfile.cpp(113): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\openvsrg\openvsrg\simfile.cpp(122): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\openvsrg\openvsrg\simfile.cpp(131): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\openvsrg\openvsrg\simfile.cpp(167): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\openvsrg\openvsrg\simfile.cpp(168): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\openvsrg\openvsrg\simfile.cpp(177): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\openvsrg\openvsrg\simfile.cpp(178): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\openvsrg\openvsrg\simfile.cpp(187): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\openvsrg\openvsrg\simfile.cpp(283): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\openvsrg\openvsrg\simfile.cpp(318): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\openvsrg\openvsrg\simfile.cpp(330): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\openvsrg\openvsrg\simfile.cpp(343): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\openvsrg\openvsrg\simfile.cpp(162): warning C4715: 'SimFile::isPoliBPM': not all control paths return a value
+  OpenVSRG.vcxproj -> C:\Users\Chineko\Downloads\SFML-2.5.1-windows-vc15-64-bit\SFML-2.5.1\OpenVSRG\x64\Debug\OpenVSRG.exe

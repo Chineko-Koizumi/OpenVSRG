@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\chineko\downloads\sfml-2.5.1-windows-vc15-64-bit\sfml-2.5.1\input_threds\input_threds\main.cpp(88): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Input_Threds.vcxproj -> C:\Users\Chineko\Downloads\SFML-2.5.1-windows-vc15-64-bit\SFML-2.5.1\input_threds\x64\Debug\Input_Threds.exe
